@@ -1,0 +1,16 @@
+{
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "json.schemaDownload.enable": false,
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+  },
+}
