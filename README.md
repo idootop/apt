@@ -59,3 +59,9 @@ const customPrivacyClassMethods = {
   ],
 };
 ```
+
+## 其他
+
+你也可以选择第三方安卓隐私合规检测服务，比如：
+[百度-史宾格安全及隐私合规平台](https://cloud.baidu.com/product/springer.html)
+[友盟-隐私合规检测](https://apm.umeng.com/platform/611ce29c1fee2e303c28be89/privacy_guide/privacy)
